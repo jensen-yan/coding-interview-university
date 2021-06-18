@@ -195,7 +195,7 @@
 ## 面试过程 & 通用的面试准备
 
 - [x] [ABC：不要停止编程（Always Be Coding）](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [白板编程（Whiteboarding）](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [白板编程（Whiteboarding）](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [揭秘技术招聘](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] 如何在科技四强企业中获得一份工作：
     - [ ] [“如何在科技四强企业中获得一份工作 —— Amazon、Facebook、Google 和 Microsoft”（视频）](https://www.youtube.com/watch?v=YJZCUhxNCv8)
@@ -230,7 +230,8 @@
 - JavaScript
 - Ruby
 
-我之前写过一篇关于在面试时选择编程语言的文章：[为编程面试选择一种语言](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/)。
+我之前写过一篇关于在面试时选择编程语言的文章：
+[x] [为编程面试选择一种语言](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/)。
 
 你需要对你所选择的语言感到非常舒适且足够了解。
 
@@ -239,7 +240,7 @@
 - http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
 
-[在此查看相关语言的资源](../programming-language-resources.md)
+[在此查看相关语言的资源](programming-language-resources.md)
 
 由于我正在学习C、C++ 和 Python，因此在下面你会看到部分关于它们的学习资料。相关书籍请看文章的底部。
 
